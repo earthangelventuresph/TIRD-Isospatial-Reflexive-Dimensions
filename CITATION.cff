@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this theory, cite as below. V1.0 Hypothesis/Protocol only, no data collected."
+type: manuscript
+title: "Theory of Isospatial Reflexive Dimensions (TIRD): A Unified Framework for Coexistent Mirror States Occupying a Single Spacetime Coordinate"
+abbreviation: "TIRD V.1.0"
+authors:
+    - family-names: Pangan
+    given-names: Angelica
+    affiliation: "Earth Angel Ventures"
+identifiers:
+    - type: other
+    value: "EAV-TIRD-001-M01"
+    description: "Manuscript ID"
+    - type: other
+    value: "EAV-TIRD-001"
+    description: "Project ID"
+version: "1.0"
+date-released: 2026-10-20
+year: 2026
+license: "All Rights Reserved"
