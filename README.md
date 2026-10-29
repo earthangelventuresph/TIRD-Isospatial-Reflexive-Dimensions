@@ -1,4 +1,4 @@
-# EAV-TIRD-001-M01: Theory of Isospatial Reflexive Dimensions (TIRD) V.1.0
+# Theory of Isospatial Reflexive Dimensions (TIRD) V.1.0
 
 **Full Title:** Theory of Isospatial Reflexive Dimensions (TIRD): A Unified Framework for Coexistent Mirror States Occupying a Single Spacetime Coordinate  
 **Lead Author / PI:** Angelica Pangan  
